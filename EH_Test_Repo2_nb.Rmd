@@ -1,0 +1,14 @@
+---
+title: "test Repo 2"
+output: html_notebook
+---
+
+Rest repo example 2
+
+```{r}
+library(knitr)
+
+plot(mtcars$mpg)
+
+```
+
